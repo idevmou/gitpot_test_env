@@ -1,0 +1,3 @@
+tasks:
+  - init: pip install -r requirements.txt
+    command: pytest  # Or the command to run your tests
